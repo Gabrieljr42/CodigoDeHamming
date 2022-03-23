@@ -6,6 +6,7 @@ public class TransferenciaDadosTP {
 
     public static void main(String[] args) {
         
+
         Scanner entrada = new Scanner(System.in);
         
         System.out.print("informe o dado a ser transmitido: ");
